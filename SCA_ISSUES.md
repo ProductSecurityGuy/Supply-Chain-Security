@@ -1,5 +1,5 @@
 # OSS Triage & Remediation Workflow
-## Managing New Open-Source Vulnerabilities
+## Addressing New Open-Source Vulnerabilities
 ---
 
 ### Step 1: The Initial Assessment
